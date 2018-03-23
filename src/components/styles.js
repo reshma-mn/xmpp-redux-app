@@ -102,6 +102,9 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         backgroundColor:'white'
+    },
+    text: {
+        color: "red"
     }
 
 });

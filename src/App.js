@@ -27,6 +27,9 @@ function onError() {
 export default class App extends React.Component {
  constructor(props){
    super(props)
+  // XMPP.trustHosts(['pia3264.pitsolutions.com']);
+ }
+ componentWillMount () {
   XMPP.trustHosts(['pia3264.pitsolutions.com']);
  }
 

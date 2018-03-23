@@ -47,7 +47,8 @@ function _userForName(name){
 
     function onLoginError(){
         
-        errorMessage = "Cannot authenticate, please use correct local username";
+        errorMessage = "Cannot authenticate, please use correct username and password";
+        dispatch(sessionError(errorMessage))
         console.log("errorr..."+errorMessage);
         
         // this.loading = false;
@@ -57,7 +58,7 @@ function _userForName(name){
 
     function onError(message){
 
-        this.error = message;
+        console.log("aaaaa")
     }
 
     function onDisconnect(message){
@@ -87,6 +88,7 @@ function _userForName(name){
             errorMessage = null;
             console.log(_userForName(user))
             XMPP.connect(_userForName(user),password);
+            dispatch(sessionLoading())
             this.user = user;
 
         }

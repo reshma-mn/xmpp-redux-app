@@ -26,13 +26,23 @@ class Login extends React.Component {
   //   XMPP.connect("test@PIA3264.pitsolutions.com","test");
   // }
 
-//   showText = () => {
-//     this.setState({printText:true});
-//  }
+  isErrorContent = () => {
+    if (this.props.error) {
+      return (
+        <View style={styles.row}>
+        <Text style={styles.text}>{this.props.error}</Text>
+      </View>
+      )
+    }
+    else {
+      return (null)
+    }
+ }
 
  
   render(){
-    return (
+    
+      return (
         //   <View><Text>hiiii</Text></View>
       <View style={[styles.container,{alignItems:'center'}]}>
         {xmpp.loginError && <Text style={{color:'red'}}>{xmpp.loginError}</Text>}
@@ -57,22 +67,26 @@ class Login extends React.Component {
                      onChangeText={(password)=>this.setState({password})}
           />
         </View>
+        {this.isErrorContent()}
         <View style={styles.button}><TouchableOpacity 
             onPress={()=>{this.props.login(this.state)}}
             // onPress={() => this.showText() } 
             
             ><Text>Login</Text></TouchableOpacity></View>
-            {this.state.printText && <Text> Printed text... </Text> }
-        <ActivityIndicator active={xmpp.loading}/>
+            {/* {this.state.printText && <Text> Printed text... </Text> } */}
+        {/* <ActivityIndicator active={xmpp.loading}/> */}
       
       </View>
     )
+    }
+    
   }
-}
+
 
 const mapStateToProps = state => ({
   loading: state.session.loading,
   logged: state.session.user != null,
+  error: state.session.error,
 })
  
 const mapDispatchToProps = {
