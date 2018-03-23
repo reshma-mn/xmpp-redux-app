@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_086c0896a17c6c24098c663404ef5c06f5627920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_325ec1973e89e7c9682b09cb1abc4316d02c4424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_7797de45cfecd27a1b8897a94be2338a9670b871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-extensions\4.1.0\b0968f9b209feb2f51d1a1e72238989271750625\smack-extensions-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b0968f9b209feb2f51d1a1e72238989271750625">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\smack-extensions-4.1.0_e4f94fe1e2266d53f551ed3ce835775356cae152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_eb7b6ea44ec7171269db80869423e9c012d540ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_f670770c0fd90f25ee7e2b6040aeed0a1ef720d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.52.0_76f94dfeae53e842ef275596311b1ee5f0f739a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-android\4.1.0\3da1ad907fe8eb0db80471b8837d3e51690fe13c\smack-android-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3da1ad907fe8eb0db80471b8837d3e51690fe13c">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\smack-android-4.1.0_545c848f46026f91a5e5b609c2428ba8b6623f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_3071ea12530deb516f80a2158ac3b6b7820e1333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\xmppchat\react-native-xmpp\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="162bef254423360b1b461e3a4b2aaf9710624c53">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\xmppchat-react-native-xmpp-unspecified_a1d37e6705c52d2c18ae91b30945bd1ced1c2f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_f34d28ff92a757bb5b3389bcc816fadbd099df43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-resolver-minidns\4.1.0\5b8783270e55f49937492b23df34993c4e51c8d7\smack-resolver-minidns-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5b8783270e55f49937492b23df34993c4e51c8d7">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\smack-resolver-minidns-4.1.0_f7fdcfc341a807f7a5ec67c05ee5a01a4b354c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-core\0.4.2-beta1\14ade1a89b0f6db4fa481f9f8a721cdec69374de\jxmpp-core-0.4.2-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="14ade1a89b0f6db4fa481f9f8a721cdec69374de">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\jxmpp-core-0.4.2-beta1_289bedb07867fd8a55aa9b1020e0edbacd6b8941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\minidns-0.1.7_e8c8da78132d031ce33d5c83f586c6460cc65215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b11078ac4290703074aee96bbc0914f23ec4c3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_78bdf8737306fe780a9a57e010b46a1ad1a3eb5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_6461f4d32a8bfaae039ee1ff864adbed54b339e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_910e47a4dba5d01d1cafd5665747e0adacc3d83f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_36282c5b608853979e56132f3d036dc15fc47059.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_02fb591a917a5bedf6960bf9268f96e775991e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.52.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_cb2fe00af69f1bcf126bdcb2b3fca629d306b8a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_6b5484ed1963ae564804d10abd044f3b20f1af15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-core\4.1.0\ad5c17dc5fe7f383118c5a3f1818b8789b697930\smack-core-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ad5c17dc5fe7f383118c5a3f1818b8789b697930">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\smack-core-4.1.0_c7baec7925f4ed7d16669f7a713547d7e6b24fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_a6e221a28d9db43fbdde2d26a65c901e522b9634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-im\4.1.0\4b6d736ad02f64ba54f4a5712a4a453a2c3848b1\smack-im-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4b6d736ad02f64ba54f4a5712a4a453a2c3848b1">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\smack-im-4.1.0_e8e6d47738a3115e224e866ec0cd2462ba4acbb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_456fcf20c982689abf3ab37c4fc2323efdf202fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_9bc01a05d032ddc1463dc12adf52800d31f363ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-sasl-provided\4.1.0\74422a92b7bba8eb633ceecdb017530b67451731\smack-sasl-provided-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="74422a92b7bba8eb633ceecdb017530b67451731">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\smack-sasl-provided-4.1.0_5089dcc2f5a8cee2284af7c38b32e7373d1a6d0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-util-cache\0.4.2-beta1\43e2a81f52600639daeb02ede60cc498a13614a5\jxmpp-util-cache-0.4.2-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43e2a81f52600639daeb02ede60cc498a13614a5">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\jxmpp-util-cache-0.4.2-beta1_45053a50bc569107c5a70552edfb9890e3830092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_b737ec2d17253a8a89897a50da76769f3c132504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-tcp\4.1.0\b5043991d7ed52da15089fcfcbca1dd862d1af42\smack-tcp-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b5043991d7ed52da15089fcfcbca1dd862d1af42">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\smack-tcp-4.1.0_b65252b22f1d033d31cb1ea6d5225671c651107d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\reshma.mn\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_7f31a9bf03c658cdc76c5daf52679e1b17524ae6.jar" />
+    </item>
+
+</items>
