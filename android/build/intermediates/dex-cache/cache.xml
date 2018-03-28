@@ -75,6 +75,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\xmppchat\react-native-sqlite-storage\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f4e46ce5ba67a4aa1d00bd4f8a287231bebb5f49">
+        <dex dex="E:\xmpp-chat\android\app\build\intermediates\pre-dexed\debug\xmppchat-react-native-sqlite-storage-unspecified_4d8f5a32bf7abac3f25c22a6cbcfa651503e225e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\xmpp-chat\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"

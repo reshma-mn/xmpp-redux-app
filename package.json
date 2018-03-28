@@ -27,6 +27,7 @@
     "react-native-invertible-scroll-view": "^1.0.0",
     "react-native-mobx": "^0.3.1",
     "react-native-router-flux": "^3.38.0",
+    "react-native-sqlite-storage": "^3.3.4",
     "react-native-xmpp": "^1.0.1",
     "react-navigation": "^1.5.6",
     "react-redux": "^5.0.7",

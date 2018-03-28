@@ -41,7 +41,19 @@ class Conversation extends React.Component {
         if (this.mounted) this.setState({height: 0});
     }
     
+    static navigationOptions = ({ navigation }) => ({
+        title: `${navigation.state.params.title}`,
+         headerTitleStyle : {textAlign: 'center',alignSelf:'center'},
+            headerStyle:{
+                backgroundColor:'white',
+            },
+        });
+    
+
     render(){
+    const { params } = this.props.navigation.state;
+    const remote = params ? params.remote : null;
+    console.log(this.props.user);
         console.log(this.props.messages)
         const dataSource = ds.cloneWithRows(this.props.messages);
         return (
@@ -63,7 +75,7 @@ class Conversation extends React.Component {
                                    style={styles.message} placeholder="Enter message..."/>
                     </View>
                     <View style={styles.sendButton}>
-                        <TouchableOpacity onPress={()=>{this.props.send(this.props.user,"gokul",this.state.message);this.setState({message:""})}} disabled={!this.state.message || !this.state.message.trim()}><Text>Send</Text></TouchableOpacity>
+                        <TouchableOpacity onPress={()=>{this.props.send(this.props.user,remote,this.state.message);this.setState({message:""})}} disabled={!this.state.message || !this.state.message.trim()}><Text>Send</Text></TouchableOpacity>
                     </View>
                 </View>
                 <View style={{height:this.state.height}}></View>

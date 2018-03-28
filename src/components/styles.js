@@ -17,6 +17,70 @@ const styles = StyleSheet.create({
         padding:10,
         alignItems: 'center'
     },
+    rowList: {
+        width:'100%',
+        paddingHorizontal: 20,
+    },
+    friendList: {
+        width:'100%',
+        paddingHorizontal: 20,
+        paddingVertical: 8,
+        marginVertical: 3,
+        marginHorizontal: 3,
+        borderColor: 'black',
+        borderWidth: 2,
+    },
+    roundFixedButton: {
+        // backgroundColor:'red',
+        borderColor: '#000000',
+        borderWidth: 2,
+        width:"80%",
+        alignItems: 'center',
+        borderRadius: 5,
+        position: 'absolute',
+        bottom:10,
+    },
+    friendModalContainer: {
+        flex: 1,
+        alignItems: 'center',
+        justifyContent: 'center',
+        opacity: 0.5,
+        borderColor: '#000000',
+        borderWidth: 2,
+        backgroundColor:'black',
+
+    },
+    friendModalWrapper: {
+        width: "70%",
+        margin: '20%',
+        backgroundColor:'white',
+
+    },
+    modalInput: {
+        padding: 10,
+
+    },
+    modalSaveButton: {
+        marginHorizontal: 5,
+        borderColor: 'green',
+        borderWidth: 2,
+        flex:1,
+        alignItems: 'center',
+    },
+    modalCancelButton: {
+        marginHorizontal: 5,
+        borderColor: 'red',
+        borderWidth: 2,
+        flex:1,
+        alignItems: 'center',
+    },
+    modalButtons: {
+        paddingVertical:5,
+        flexDirection: 'row',
+    },
+    buttonText: {
+        paddingVertical: 5,
+    },
     categoryLabel: {
         fontSize: 15,
         textAlign: 'left',

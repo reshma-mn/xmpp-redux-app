@@ -4,6 +4,7 @@ import { StackNavigator } from 'react-navigation'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 
+import {Router} from './Router';
 import Conversation from './Conversation';
 import Login from './Login';
 import MyActivityIndicator from './ActivityIndicator';
@@ -12,6 +13,7 @@ import {View, Text, ScrollView, TextInput, ListView, Dimensions}  from 'react-na
 
 
 import { restoreSession } from '../stores/redux/session'
+import ChatFriends from './ChatFriends';
 
 
 class RootApp extends React.Component {
@@ -24,7 +26,7 @@ class RootApp extends React.Component {
     }
     else{
       if(this.props.logged){
-        return(<Conversation />);
+        return(<Router />);
       }
       else{
         return(<Login />);
@@ -36,16 +38,11 @@ class RootApp extends React.Component {
   render() {
     //   console.log(this.props.loading+" "+this.props.logged);
     return (
-    //   <View><Text>hello</Text></View>
           <View style={{flex:1}}>{this.content()}</View>
-      
-        
-      // <Router xmpp={xmpp}>
-      //       <Scene key="main" tabs component={Switch} selector={()=>!xmpp.logged ? 'login' : 'conversation'}>
-      //         <Scene key="login" component={Login} title="Login"/>
-      //         <Scene key="conversation" component={Conversation}/>
-      //       </Scene>
-      //   </Router>
+          // // <View style={{flex:1}}>
+          //       <Router />
+          // // </View>
+
     );
   }
 }

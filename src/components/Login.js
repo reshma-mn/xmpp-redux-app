@@ -13,13 +13,15 @@ import { restoreSession } from '../stores/redux/session'
 import { loginUser } from '../stores/redux/session'
 import XMPP from 'react-native-xmpp';
 
+// import LocalStorage from '../services/localStorage/localStorage'
+
 
 class Login extends React.Component {
   constructor(props){
     super(props);
     this.state = {};
-   
-    
+    console.log("database");
+    // LocalStorage.loadAndQueryDB("gokul");
   }
   // compnentDidMount(){
   //   XMPP.trustHosts(['pia3264.pitsolutions.com']);
